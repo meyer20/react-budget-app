@@ -43,7 +43,7 @@ export default function BudgetCard({ budgetId, name, amount, max, gray, hideButt
                                 size="sm"
                                 variant="outline-danger"
                                 >
-                                &times; {budgetId}
+                                Remover gasto
                             </Button>
                         )}
 
